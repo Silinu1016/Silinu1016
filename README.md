@@ -14,16 +14,16 @@
 ## 💻 Projects <br>
 |Name|Period|Main skills|Link|
 |:---:|:---:|:---:|:---:|
-|의류 이커머스 사진 리뷰 품질 분류|23.12 - 24.01|OpenCV, YOLOv8|[Link](https://github.com/Silinu1016/Custom-Object-Detection/tree/main/Clothes%20and%20Human)|
-|웹캠을 활용한 손가락 숫자 인식|23.11 - 23.11|OpenCV, YOLOv8|[Link](https://github.com/Silinu1016/Custom-Object-Detection/tree/main/Finger)|
-|실시간 엘리베이터 상태 인식|21.08 - 21.10|Tensorflow, OpenCV, YOLOv3|[Link](https://github.com/Silinu1016/Custom-Object-Detection/tree/main/Elevator)|
-<br>
+|의류 이커머스 사진 리뷰 품질 분류|23.12 - 24.01|OpenCV, YOLOv8|[Link](https://github.com/Silinu1016/Project/tree/main/Clothes%20and%20Human)|
+|웹캠을 활용한 손가락 숫자 인식|23.11 - 23.11|OpenCV, YOLOv8|[Link](https://github.com/Silinu1016/Project/tree/main/Finger)|
+|실시간 엘리베이터 상태 인식|21.08 - 21.10|Tensorflow, OpenCV, YOLOv3|[Link](https://github.com/Silinu1016/Project/tree/main/Elevator)|
+
 
 ## 🏆 Competitions <br>
 |Name|Period|Main skills|Results|Link|
 |:---:|:---:|:---:|:---:|:---:|
-|제주 특산물 가격 예측 AI 경진대회|23.11 - 23.11|LSTM, Darts, LGBM Regressor|상위 10% 이내 달성|[Link](https://github.com/Silinu1016/Solar-Power-Predict)|
-|태양광 발전량 예측 AI 경진대회|20.12 - 21.01|LSTM, Bi-LSTM, CNN|상위 7% 이내 달성|[Link](https://github.com/Silinu1016/Solar-Power-Predict)|
+|제주 특산물 가격 예측 AI 경진대회|23.11 - 23.11|LSTM, Darts, LGBM Regressor|상위 10% 이내 달성|[Link](https://github.com/Silinu1016/Competition/tree/main/Jeju%20special%20product%20price%20prediction)|
+|태양광 발전량 예측 AI 경진대회|20.12 - 21.01|LSTM, Bi-LSTM, CNN|상위 7% 이내 달성|[Link](https://github.com/Silinu1016/Competition/tree/main/Solar%20power%20prediction)|
 <br>
 
 ## 📒 Blog <br>
