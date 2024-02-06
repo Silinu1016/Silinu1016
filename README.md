@@ -14,7 +14,7 @@
 ## 💻 Projects <br>
 |Name|Period|Main skills|Link|
 |:---:|:---:|:---:|:---:|
-|의류 이커머스 사진 리뷰 품질 분류|23.12 - 24.01|OpenCV, YOLOv8|[Link](https://github.com/Silinu1016/Project/tree/main/Clothes%20and%20Human%20Detection)|
+|의류 이커머스 사진 리뷰 품질 분류|23.12 - 24.01|OpenCV, YOLOv8|[Link](https://github.com/Silinu1016/Project/tree/main/Photo%20Review%20Quality%20Evaluation)|
 |웹캠을 활용한 손가락 숫자 인식|23.11 - 23.11|OpenCV, YOLOv8|[Link](https://github.com/Silinu1016/Project/tree/main/Finger%20Detection)|
 |실시간 엘리베이터 상태 인식|21.08 - 21.10|Tensorflow, OpenCV, YOLOv3-tiny|[Link](https://github.com/Silinu1016/Project/tree/main/Elevator%20Detection)|
 
