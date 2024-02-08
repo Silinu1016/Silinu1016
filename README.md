@@ -25,7 +25,7 @@
 |Name|Period|Main skills|Results(Public 기준)|Link|
 |:---:|:---:|:---:|:---:|:---:|
 |제주 특산물 가격 예측 AI 경진대회|23.11 - 23.11|Autogluon|상위 10% 이내 달성|[Link](https://github.com/Silinu1016/Competition/tree/main/Jeju%20special%20product%20price%20prediction)|
-|태양광 발전량 예측 AI 경진대회|20.12 - 21.01|LSTM, Bi-LSTM, CNN|상위 4% 이내 달성|[Link](https://github.com/Silinu1016/Competition/tree/main/Solar%20power%20prediction)|
+|태양광 발전량 예측 AI 경진대회|20.12 - 21.01|LSTM, Bi-LSTM, CNN|7위 달성|[Link](https://github.com/Silinu1016/Competition/tree/main/Solar%20power%20prediction)|
 <br>
 
 ## 📒 Blog <br>
